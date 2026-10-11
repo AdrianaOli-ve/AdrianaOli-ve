@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou a Adriana 👋
 
-<!--
-**AdrianaOli-ve/AdrianaOli-ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Análise de dados · Power BI · Aprendizado contínuo
 
-Here are some ideas to get you started:
+Estou estudando análise de dados e registrando minha evolução por meio de projetos práticos e materiais de estudo do **Bootcamp Santander/DIO**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui você encontra meus exercícios com **Power BI, DAX, SQL e modelagem de dados**, além de estudos sobre **inteligência artificial aplicada à análise de dados**.
+
+## 📊 Projetos em destaque
+
+| Projeto | O que você encontra |
+| --- | --- |
+| [Desafios de Power BI](https://github.com/AdrianaOli-ve/DESAFIOSPWB) | Relatórios de vendas, exercícios de DAX e medidas, esquema estrela e scripts SQL. |
+| [IA aplicada à análise de dados](https://github.com/AdrianaOli-ve/DIO-estudosBootCamp--PBI-notebooklm) | Caderno temático com NotebookLM, engenharia de prompts, miniguia e materiais de consulta. |
+
+## 🌱 Temas que estou explorando
+
+- **Visualização de dados:** construção e organização de relatórios no Power BI.
+- **DAX e modelagem:** medidas e estruturação de modelos de dados.
+- **SQL:** criação de tabelas, inserção de dados e consultas.
+- **IA como apoio ao estudo:** elaboração de prompts e análise crítica das respostas.
+
+## 📚 Por onde começar
+
+Explore os [projetos de Power BI](https://github.com/AdrianaOli-ve/DESAFIOSPWB#readme) ou leia meu [miniguia de IA aplicada aos dados](https://github.com/AdrianaOli-ve/DIO-estudosBootCamp--PBI-notebooklm/blob/main/miniguia-ia-dados.md).
+
+---
+
+*Este perfil reúne minha jornada de aprendizado e os projetos que estou desenvolvendo ao longo dos estudos.*
